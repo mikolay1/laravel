@@ -1,4 +1,4 @@
 files:
   -
-    source: /laravel/resources/lang/en/*.*
-    translation: laravel/resources/lang/%two_letters_code%/%original_file_name%
+    source: /resources/lang/en/*.*
+    translation: /resources/lang/%two_letters_code%/%original_file_name%
