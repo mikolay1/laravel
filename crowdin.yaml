@@ -1,0 +1,4 @@
+files:
+  -
+    sources: /laravel/resources/lang/en/*.*
+    translation: laravel/resources/lang/%two_letters_code%/%base_file_name%
